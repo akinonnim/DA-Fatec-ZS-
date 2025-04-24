@@ -6,9 +6,6 @@ Site oficial do DA Edson Luiz, oficializado e reconhecido pela comunidade discen
 
 - [@akinonnim](https://www.github.com/akinonnim)
 - [@DevGeovani](https://www.github.com/DevGeovani)
-- [@kolgry](https://www.github.com/kolgry)
-- [@o0Junny0o](https://www.github.com/o0Junny0o)
-- [@octokatherine](https://www.github.com/octokatherine)
 
 ## Documentação de cores
 
